@@ -3,10 +3,11 @@
 
 """
 Program: "senhador.py"
-Creator: Sh11td0wn <sh11td0wn@gmail.com>
+Creator: Sh11td0wn (Github)
 Date: 01/Feb/2015
 
-Description: by default, generates a string based on a md5 hash of a word given by the user, with special characters (@) at both ends.
+Description: by default, generates a string based on a md5 hash of a word given by the user, 
+with special characters (@) at both ends.
 
 Ex.
 	senhador.py
@@ -15,6 +16,11 @@ Ex.
 
 Dependencies:
 	This program requires the package 'xclip' installed on system.
+	
+	           *** Do NOT use this for illegal or malicious use ***                     
+               By running this, YOU are using this program at YOUR OWN RISK.                 
+            This software is provided "as is", WITHOUT ANY guarantees OR warranty.  
+	
 """
 
 # Modules #
